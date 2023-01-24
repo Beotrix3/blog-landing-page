@@ -1,0 +1,15 @@
+.header__link{
+  margin-right: 24px;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  color:white;
+  font-size: 11px;
+  line-height: 14px;
+  letter-spacing: 1.3px;
+}
+
+.header__link:last-of-type{
+  margin-right: 0;
+}
