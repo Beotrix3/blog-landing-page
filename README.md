@@ -29,4 +29,4 @@
 ----
 ### Ссылки
 * [Ссылка на макет в Figma](https://www.figma.com/file/0rXYQKL9RYemKOvh3QDdJE/Explorer-%2B?node-id=0%3A1&t=vuVUQNqHdXcMtTP1-0)
-* [Ссылка на GitHub Pages]()
+* [Ссылка на GitHub Pages](https://beotrix3.github.io/blog-landing-page/index.html)
