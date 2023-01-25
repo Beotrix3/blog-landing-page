@@ -10,3 +10,35 @@
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__link/_active/header__link_active.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__card/cards__card.css);
+@import url(../blocks/cards/__user-blog/cards__user-blog.css);
+@import url(../blocks/cards/__user-info/cards__user-info.css);
+@import url(../blocks/cards/__username/cards__username.css);
+@import url(../blocks/cards/__data/cards__data.css);
+@import url(../blocks/cards/__avatar/cards__avatar.css);
+@import url(../blocks/cards/__action/cards__action.css);
+@import url(../blocks/cards/__article/cards__article.css);
+@import url(../blocks/cards/__link/cards__link.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__user/cards__user.css);
+@import url(../blocks/cards/__artcl-container/cards__artcl-container.css);
+
+@import url(../blocks/more/more.css);
+@import url(../blocks/more/__question/more__question.css);
+@import url(../blocks/more/__button/more__button.css);
+
+@import url(../blocks/stories/stories.css);
+@import url(../blocks/stories/__title/stories__title.css);
+@import url(../blocks/stories/__subtitle/stories__subtitle.css);
+@import url(../blocks/stories/__blog-menu/stories__blog-menu.css);
+@import url(../blocks/stories/__full-blog/stories__full-blog.css);
+@import url(../blocks/stories/__blog-container/stories__blog-container.css);
+@import url(../blocks/stories/__avatar/stories__avatar.css);
+@import url(../blocks/stories/__mini-blog/stories__mini-blog.css);
+@import url(../blocks/stories/__username/stories__username.css);
+@import url(../blocks/stories/__data/stories__data.css);
+@import url(../blocks/stories/__caption/stories__caption.css);
+@import url(../blocks/stories/__text/stories__text.css);
+@import url(../blocks/stories/__link/stories__link.css);

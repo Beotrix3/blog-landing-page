@@ -1,0 +1,10 @@
+.more__button{
+  width: 182px;
+  height: 45px;
+  color: white;
+  background: #8D4FDB;
+  border-radius: 3px;
+  font-size: 10px;
+  line-height: 30px;
+  border: none;
+}

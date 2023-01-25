@@ -1,0 +1,8 @@
+.cards__artcl-container{
+  width: 664px;
+  height: 100px;
+  background-color: white;
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  padding: 36px 76px 35px 60px;
+}

@@ -1,0 +1,7 @@
+.cards{
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  /* filter: brightness(100%); */
+}

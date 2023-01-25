@@ -1,0 +1,4 @@
+.stories__blog-menu{
+  display: flex;
+  flex-direction: row;
+}

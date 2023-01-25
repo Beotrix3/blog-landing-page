@@ -1,0 +1,18 @@
+.cards__user-blog{
+  display: flex;
+  position: relative;
+  background-image: url(../../../images/background2.jpg);
+  background-repeat: no-repeat;
+  height: 330px;
+  background-size: contain;
+}
+
+/* При подключении функционала подлежит изменению */
+
+.cards__user-blog:nth-child(2){
+  background-image: url(../../../images/background3.jpg);
+}
+
+.cards__user-blog:nth-child(3){
+  background-image: url(../../../images/background4.jpg);
+}

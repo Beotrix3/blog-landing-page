@@ -1,0 +1,9 @@
+.stories__full-blog{
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.stories__full-blog:last-of-type{
+  margin-right: 0;
+}

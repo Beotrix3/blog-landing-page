@@ -1,0 +1,14 @@
+.cards__title{
+  display: flex;
+  position: absolute;
+  left: 60px;
+  bottom: 40px;
+  max-width: 503px;
+  color: white;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin: 0;
+  padding-top: 20px;
+  font-size: 28px;
+  line-height: 35px;
+}

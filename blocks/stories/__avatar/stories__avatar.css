@@ -1,0 +1,10 @@
+.stories__avatar{
+  display: flex;
+  position: absolute;
+  bottom: 24px;
+  left: 24px;
+  width: 35px;
+  height: 35px;
+  border-radius: 4px;
+  margin-right: 8px;
+}

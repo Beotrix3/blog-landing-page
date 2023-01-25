@@ -1,0 +1,6 @@
+.cards__user{
+  display: flex;
+  position: absolute;
+  left: 60px;
+  bottom: 130px;
+}
