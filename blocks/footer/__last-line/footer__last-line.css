@@ -1,0 +1,6 @@
+.footer__last-line{
+  display: flex;
+  flex-direction: row;
+  row-gap: 10px;
+  padding: 10px 0 45px;
+}

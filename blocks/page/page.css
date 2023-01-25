@@ -1,8 +1,6 @@
 .page{
   background-image: url(../../images/background.jpg);
-  background-repeat: no-repeat;
-  /* background-size: cover; */
-  margin: 0 auto;
-  /* filter: brightness(40%); */
-  /* z-index: 1; */
+  background-position: top;
+  /* background-repeat: no-repeat; */
+  z-index: 1;
 }
